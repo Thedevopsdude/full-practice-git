@@ -1,1 +1,2 @@
 hi welcome to git, start pushing the code
+changes made in remote reporsitory for pull
