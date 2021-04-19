@@ -1,3 +1,7 @@
 hi welcome to git, start pushing the code
 changes made in remote reporsitory for pull
+<<<<<<< HEAD
+now Im going to create the conflict with this line 
+=======
 line added in remote repo. 
+>>>>>>> dc075edc20fd329a1cbe93f2a04958fd82f11aff
