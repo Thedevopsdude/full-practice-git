@@ -3,3 +3,5 @@ changes made in remote reporsitory for pull
 now Im going to create the conflict with this line 
 line added in remote repo. 
 this is a brnach
+this is branch2
+branch protection rule
